@@ -14,7 +14,7 @@
     <typeAliases>
         <typeAlias type="com.zjh.bean.User" alias="User"/>
         <!--    该包下的所有类有默认别名 为该类名本身 不区分大小写  可用注解@Alias使用diy类名-->
-<!--        <typeAlias type="com.com.zjh.bean"/>-->
+<!--        <typeAlias type="com.zjh.bean"/>-->
     </typeAliases>
     <environments default="development">
         <environment id="development">
